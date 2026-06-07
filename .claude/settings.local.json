@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(curl *)",
+      "Bash(awk '{print $2}')"
+    ]
+  }
+}
